@@ -2,7 +2,8 @@
 
 LGW_PATH ?= ../../lora_gateway/libloragw
 ARCH ?=
-CROSS_COMPILE ?=arm-linux-gnueabihf-
+CROSS_COMPILE ?=
+# CROSS_COMPILE ?=arm-linux-gnueabihf-
 export
 
 ### general build targets
